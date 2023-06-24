@@ -1,0 +1,30 @@
+.cl1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fs-size {
+    width: 100px;
+}
+
+.fc-size {
+    width: 300px;
+}
+
+.rw1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vis-style {
+    background-color: aqua;
+}
+
+.edit-style {
+    background-color: greenyellow;
+}
+
+.del-style {
+    background-color: red;
+}
